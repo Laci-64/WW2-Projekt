@@ -1,0 +1,33 @@
+body
+{
+background-image: url(Kepek/haha.jpg);
+background-position-x: center;
+background-repeat: no-repeat;
+background-attachment:fixed;
+box-shadow: honeydew;
+text-align: center;
+color: 	rgb(0, 0, 0);
+
+}
+
+
+#heble{
+
+    background-color:hsl(60, 33%, 30%);
+    border-radius:  25px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 5%;
+    
+    
+}
+h1{
+    background-color: hsl(60, 33%, 30%);
+    border-radius:  40px;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+#navbar{color:rgb(102, 102, 51)}
